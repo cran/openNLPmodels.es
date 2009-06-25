@@ -1,0 +1,5 @@
+1cfa78df1c6cfca9b3a7d6036a05655b *DESCRIPTION
+d41d8cd98f00b204e9800998ecf8427e *NAMESPACE
+7d78e8d377c0102a192e65ef326a2690 *inst/models/postag/SpanishPOS.bin.gz
+42657b11ea33132f5636f4ea672c2823 *inst/models/sentdetect/SpanishSent.bin.gz
+a043fdb9cbc3d2bd055d292ad3f4cd0e *inst/models/tokenize/SpanishTok.bin.gz
